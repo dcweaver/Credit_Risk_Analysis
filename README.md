@@ -30,7 +30,9 @@ The data was oversampled using the RamdomOverSampler and SMOTE algorithms. The d
 * Combination Over/Under:
 ![combination](/Resources/combination_sampling.png)
 
+* Balanced Random Forest Classifier:
+![balancedramdonforest](/Resources/balanced_random_forest.png)
+
+
 * EasyEnsembleClassifier:
 ![easyemsemble](/Resources/easy_ensemble.png)
-
-* 
