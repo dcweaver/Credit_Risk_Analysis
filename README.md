@@ -42,8 +42,8 @@ The data was oversampled using the RamdomOverSampler and SMOTE algorithms. The d
 Naive Oversampling - ~66%
 SMOTE Oversampling - ~66%
 ClusterCentrioid Undersampling - ~54%
-Combination over/under sampling - ~65%
-Balanced random forest classifier - ~79%
+Combination Over/Under Sampling - ~65%
+Balanced Random Forest classifier - ~79%
 EasyEmsemble Classifier - ~92%
 
 Based on the accuracy scores for all of the models, the EasyEnsemble Clasifier model easily performs the best out of these six models with a score of 92% and would be the recommendation for this type of analysis going forward.
